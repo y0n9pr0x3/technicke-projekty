@@ -11,6 +11,6 @@ Realizácie kamerových systémov, fotografie, použitý materiál a technické 
 Realizácie a technické riešenia prístupových systémov.
 
 ### 🌐 IP siete
-Sieťová infraštruktúra, PoE a konfigurácie.
+Sieťová infraštruktúra, PoE a konfigurácie. 
 
 
