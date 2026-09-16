@@ -64,7 +64,7 @@ Moja práca zahŕňala:
 
 ### Kamerový bod pri moste
 
-![Kamerový bod pri moste](kamerovy-bod-pri-moste.jpeg)
+![Kamerový bod pri moste](kamerovy_bod_pri_moste.jpeg)
 
 ### Celkový pohľad na kamerový bod
 
