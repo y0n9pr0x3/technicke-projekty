@@ -58,3 +58,34 @@ Moja práca zahŕňala:
 🧪 testovanie a uvedenie celého systému do prevádzky.
 
 **Návrh samotného technického riešenia nebol mojou úlohou.**
+
+
+## Fotografie
+
+### Kamerový bod pri moste
+
+![Kamerový bod pri moste](kamerovy-bod-pri-moste.jpeg)
+
+### Celkový pohľad na kamerový bod
+
+![Celkový pohľad na kamerový bod](celkovy-pohlad_na-kamerovy_bod.jpeg)
+
+### Solárny panel a kamera
+
+![Solárny panel a kamera](solarny_panel_a_kamera.jpeg)
+
+### Montáž
+
+![Montáž](montaz.jpeg)
+
+### Osadenie a ukotvenie stožiara
+
+![Osadenie a ukotvenie stožiara](osadenie_a_ukotvenie_stoziara.jpeg)
+
+### Panel a kabeláž
+
+![Panel a kabeláž](panel_kabelaz.jpeg)
+
+### Panel a router
+
+![Panel a router](panel_router.jpeg)
