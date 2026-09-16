@@ -68,7 +68,7 @@ Moja práca zahŕňala:
 
 ### Celkový pohľad na kamerový bod
 
-![Celkový pohľad na kamerový bod](celkovy-pohlad_na-kamerovy_bod.jpeg)
+![Celkový pohľad na kamerový bod](celkovy_pohlad_na_kamerovy_bod.jpeg)
 
 ### Solárny panel a kamera
 
