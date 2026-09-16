@@ -1,4 +1,4 @@
-Kamerový dohľad staveniska – autonómny kamerový bod
+**Kamerový dohľad staveniska – autonómny kamerový bod**
 
 Cieľom projektu bolo zabezpečiť kamerový dohľad nad priebehom rekonštrukcie mosta a okolitým staveniskom, so zameraním na pohyb a činnosť ťažkej stavebnej techniky, najmä bagrov a ďalších mechanizmov.
 Keďže sa kamerový bod nachádzal mimo dostupnej elektrickej siete, bolo potrebné navrhnúť autonómne napájanie pomocou fotovoltaického systému a batérie.
@@ -6,16 +6,16 @@ Keďže sa kamerový bod nachádzal mimo dostupnej elektrickej siete, bolo potre
 **Technické riešenie**
 Kamerový bod pozostával z dvoch IP kamier, sieťovej infraštruktúry a autonómneho napájania.
 
-**Použité komponenty:**
+##**Použité komponenty:**
 
-☀️ Solárna fotovoltaická sada 12 V / 160 W
-📷 2× Dahua IPC-UFW3459T-ZAS-IL-27135, 4 Mpx IP kamera
-🌐 PoE switch
-📡 MikroTik router
-🔋 12 V / 100 Ah batéria
-💾 2× pamäťová karta 128 GB – lokálny záznam v jednotlivých kamerách
+##☀️ Solárna fotovoltaická sada 12 V / 160 W
+##📷 2× Dahua IPC-UFW3459T-ZAS-IL-27135, 4 Mpx IP kamera
+##🌐 PoE switch
+##📡 MikroTik router
+##🔋 12 V / 100 Ah batéria
+##💾 2× pamäťová karta 128 GB – lokálny záznam v jednotlivých kamerách
 
-**Napájanie**
+##**Napájanie**
 Kamerový bod bol pôvodne navrhnutý ako autonómny systém napájaný zo solárneho panelu a 12 V / 100 Ah batérie.
 Pri návrhu sa počítalo s približne tromi dňami bez dostatočného slnečného žiarenia.
 Keďže bol systém inštalovaný počas jesenného a zimného obdobia, reálne poveternostné podmienky boli náročnejšie. Následne nastalo približne týždeň obdobia bez dostatočného slnečného žiarenia, počas ktorého fotovoltaický panel nedokázal batériu dostatočne dobíjať.
